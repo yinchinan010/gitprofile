@@ -2,7 +2,7 @@
 
 const CONFIG = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (This is the only required config)
+    username: 'Chinan Yin', // Your GitHub org/user name. (This is the only required config)
   },
   /**
    * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
@@ -57,61 +57,58 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'Chinan Yin',
+    twitter: 'Chinan Yin',
     researchGate: '',
     facebook: '',
     instagram: '',
-    reddit: '',
     threads: '',
     youtube: '', // example: 'pewdiepie'
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    dev: 'ChinanYin',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
     website: 'https://www.arifszn.com',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'yinchinan168@gmail.com',
   },
   resume: {
     fileUrl:
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
+    'C#',
+    'ASP.NET Core',
     'JavaScript',
-    'React.js',
+    'Vue.js',
     'Node.js',
-    'Nest.js',
+    'Nuxt.js',
+    'MSSQL',
     'MySQL',
-    'PostgreSQL',
     'Git',
     'Docker',
-    'PHPUnit',
+    'UniApp',
     'CSS',
     'Antd',
     'Tailwind',
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Crystal Zhongshan YIDA, a subside of Crystal Internation Group',
+      position: 'Senior Software Engineering',
+      from: 'June 2015',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://CrystalInternationGroup.com',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
+      company: 'MPA International Security',
+      position: 'Senior Fullstack Developer',
       from: 'July 2019',
       to: 'August 2021',
-      companyLink: 'https://example.com',
+      companyLink: 'https://MAPInternationalSecurity.com',
     },
   ],
   certifications: [
@@ -124,16 +121,16 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Royal University of Phnom Penh(RUPP)',
+      degree: 'Computer Scient',
+      from: '2009',
+      to: '2013',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Cambodian Mekong University(CMU)',
+      degree: 'English for Business',
+      from: '2011',
+      to: '2015',
     },
   ],
   publications: [
@@ -159,7 +156,7 @@ const CONFIG = {
   // Display articles from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    username: 'chiinan', // to hide blog section, keep it empty
     limit: 2, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
